@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oloshAmi
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning SQL and python and ML
+- 🌱 I’m currently learning SQL and python and ML and Java and 5G
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
